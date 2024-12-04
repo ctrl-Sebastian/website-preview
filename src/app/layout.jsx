@@ -5,7 +5,7 @@ import Header from './components/Header/Header';
 import Starfield from './components/Starfield';
 
 export const metadata = {
-  title: 'Apolo 27',
+  title: 'Apolo 27 Preview',
   description:
     'Primer equipo universitario de la Republica Dominicana en participar en la NASA Human Exploration Rover Challenge',
 };
